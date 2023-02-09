@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Gabriella Bradley
-- 🙇‍♀️ Estudando html, css, PHP
+- 🙇‍♀️ Estudando html, css, Javascript, PHP.
 - 📫 linkedin: https://www.linkedin.com/in/gabriella-b-738ab51a5/
 
 <div align="center">
